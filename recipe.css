@@ -1,35 +1,33 @@
-<style type="text/css" media="screen">
-        h1 {
-            color : #A4A400;
-            background-color : #F0F0F0;
-            font-family : Verdana;
-            text-decoration : underline;
-            text-align : center;
-        }
-        h2 {
-            color : #A4A400;
-            background-color : #F0F0F0;
-            font-family : "Century Gothic",Futura,Verdana,serif;
-            text-decoration : underline;
-            font-size : 18pt;
-            font-weight : normal;
-        }
-        p,li {
-            color :  #404040;
-            font-size : 11pt;
-            font-family : Cambria, Garamond, serif;
-        }
-        blockquote {
-            background-color : #FFFFC8;
-        }
-        a {
-            color : #A4A400;
-            text-decoration : underline;
-        }
-        body {
-            background-image : url("http://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/silverware.jpg");
-        }
-        ul {
-            list-style-image : url("http://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/pie_icon.gif");
-        }
-    </style>
+h1 {
+    color : #A4A400;
+    background-color : #F0F0F0;
+    font-family : Verdana;
+    text-decoration : underline;
+    text-align : center;
+}
+h2 {
+    color : #A4A400;
+    background-color : #F0F0F0;
+    font-family : "Century Gothic",Futura,Verdana,serif;
+    text-decoration : underline;
+    font-size : 18pt;
+    font-weight : normal;
+    }
+p,li {
+    color :  #404040;
+    font-size : 11pt;
+    font-family : Cambria, Garamond, serif;
+    }
+blockquote {
+    background-color : #FFFFC8;
+    }
+a {
+    color : #A4A400;
+    text-decoration : underline;
+    }
+body {
+    background-image : url("http://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/silverware.jpg");
+    }
+ul {
+    list-style-image : url("http://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/pie_icon.gif");
+}
